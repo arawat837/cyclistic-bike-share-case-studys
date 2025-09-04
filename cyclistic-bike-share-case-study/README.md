@@ -67,7 +67,7 @@ Annual members are more profitable than casual riders.
 - 📜 [R Script: Analysis](scripts/02_analysis.R)  
 - 📄 [Sample Cleaned Data (CSV)](outputs/sample_cleaned_data.csv)  
 - 📄 [Summary by Month (CSV)](outputs/summary_by_month.csv)  
-
+- 🌐 [Interactive Tableau Dashboard]([https://public.tableau.com/views/YOUR_DASHBOARD_LINK](https://public.tableau.com/views/CyclisticBike-ShareCaseStudyMembersvsCasuals/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 ---
 
 ## 🔗 License
